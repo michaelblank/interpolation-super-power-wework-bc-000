@@ -1,4 +1,5 @@
 # Write your #display_rainbow method here
 colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 
-def 
+def display_riainbow(colors)
+  puts 
