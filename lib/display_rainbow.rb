@@ -2,4 +2,4 @@
 colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 
 def display_riainbow(colors)
-  puts 
+  puts colors#{0}
